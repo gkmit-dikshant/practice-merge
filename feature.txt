@@ -1,2 +1,3 @@
 complete feature1
 complete feature2
+fix feature bug 1
